@@ -14,16 +14,6 @@ BOT_NAME = 'wdjcomment'
 SPIDER_MODULES = ['wdjcomment.spiders']
 NEWSPIDER_MODULE = 'wdjcomment.spiders'
 
-MONGODB={
-    'host': '127.0.0.1',
-    'port': 27017,
-    'db': 'pg_crawler',
-    "auth": False,
-    "auth_db": "admin",
-    "user": "root",
-    "password": "#######"
-}
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'wdjcomment (+http://www.yourdomain.com)'
 

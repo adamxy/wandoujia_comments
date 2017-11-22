@@ -9,7 +9,7 @@ import json
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 conn = pymongo.MongoClient('127.0.0.1',27017)
-db = conn['pg_crawler']
+db = conn['wdjcomment_crawler']
 r = redis.Redis('127.0.0.1', 6379, db=0)
 
 def process_item():
