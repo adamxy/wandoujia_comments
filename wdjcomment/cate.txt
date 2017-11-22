@@ -1,0 +1,77 @@
+Scrapy 1.4.0 - project: wdjcomment
+
+Unknown command: runspdier
+
+Use "scrapy" to see available commands
+Preparing Starting
+Preparing Starting
+Preparing Starting
+Preparing Starting
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) *** NameError: name 'f' is not defined
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) > /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(38)parse_detail()
+-> import pdb;pdb.set_trace()
+(Pdb) (Pdb) 
+6006_692
+6006_695
+6006_693
+6005_1002
+6005_994
+6006_726
+6005_688
+6005_689
+6005_687
+6009_749
+6006_696
+6009_664
+6009_663
+6005_691
+6009_662
+6009_660
+6007_744
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) *** SyntaxError: invalid syntax (<stdin>, line 1)
+(Pdb) *** SyntaxError: invalid syntax (<stdin>, line 1)
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) (Pdb) (Pdb) (Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) *** SyntaxError: invalid syntax (<stdin>, line 1)
+(Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
+> /opt/crawler/appannie_crawler/wdjcomment/wdjcomment/spiders/category.py(39)parse_detail()
+-> if i == "javascript:;":
+(Pdb) (Pdb) 
