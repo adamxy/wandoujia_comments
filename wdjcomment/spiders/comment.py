@@ -9,7 +9,8 @@ class WdjCommentSpider(RedisCrawlSpider):
     redis_key = 'wdj_comment:start_urls'
 
     def parse(self, response):
-        appid = str(response).split("/")[-1].split(">")[0]
+        import pdb;pdb.set_trace()
+        appid = str(response.url).split("/")[-1]
         comments = []
         for sel in response.xpath('//ul[@class="comments-list"]/li'):
             data = {}
